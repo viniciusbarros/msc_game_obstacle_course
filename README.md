@@ -19,7 +19,10 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 - Presentation Template [Maritime Adventure Storybook Slides](https://www.slidescarnival.com/template/maritime-adventure-storybook/59717)
 
 ### Backstory
-- Chat history to help generate the backstory can be found [here](Docs/backstory-chat-ref.txt)
+- Chat history to help generate the backstory can be found [here](Docs/backstory-chat-ref.txt). Tools: ChatGPT
+
+### Character
+- Chat history to help generate design of the character [here](Docs/char-draw-ref.txt) Tools: ChatGPT Plus with DALL-E
 
 
 
