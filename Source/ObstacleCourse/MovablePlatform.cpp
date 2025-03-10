@@ -50,26 +50,27 @@ void AMovablePlatform::MovePlatform(float DeltaTime)
 	* and keeps moving back and forth.
 	*/
 
-	FVector CurrentPosition = GetActorLocation();
-	FVector Direction = IsMovingForward ? MovementSpeed : -MovementSpeed;
-	FVector NewPosition = CurrentPosition + (Direction * DeltaTime);
+    FVector CurrentPosition = GetActorLocation();
+    FVector Direction = (IsMovingForward ? 1 : -1) * MovementSpeed.GetSafeNormal();
+    FVector NewPosition = CurrentPosition + (Direction * MovementSpeed.Size() * DeltaTime);
 
-	// Calculate the distance moved from the initial position
-	float DistanceMoved = FVector::Dist(InitialPosition, NewPosition);
+    float ForwardDisplacement = FVector::DotProduct(NewPosition - InitialPosition, MovementSpeed.GetSafeNormal());
 
-	// Check if the platform has reached the maximum distance
-	if (DistanceMoved >= MaximumDistance)
-	{
-		// Reverse the direction
-		IsMovingForward = !IsMovingForward;
-		// Clamp the position to the maximum distance
-		NewPosition = InitialPosition + (Direction.GetSafeNormal() * MaximumDistance);
-	}
+	// Make sure platform doesn't overshoot
+    if (ForwardDisplacement >= MaximumDistance)
+    {
+        NewPosition = InitialPosition + (MovementSpeed.GetSafeNormal() * MaximumDistance);
+        IsMovingForward = false;
+    }
+    else if (ForwardDisplacement <= 0)
+    {
+		// Reset to original position when it reaches the start (or passed it)
+        NewPosition = InitialPosition;
+        IsMovingForward = true;
+    }
 
-	SetActorLocation(NewPosition);
-
-	
-
+    SetActorLocation(NewPosition);
 }
+
 
 
