@@ -1,0 +1,26 @@
+
+──────────────────────────────────────────────────────────────────────────────────────────  GAEA BUILD SWARM  2.0.6.0 ──
+
+                                                                              
+          Filename:  │ C:\Users\vmbar\Downloads\test-terrain.terrain          
+    Build Location:  │ C:\Users\vmbar\Documents\Gaea\Builds\test-terrain\005  
+  Build Resolution:  │ 1024 x 1024                                            
+             Nodes:  │ Total [4] / Exporting [2]                              
+                                                                              
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────── Build Report ──
+
+            Build Results                            Statistics              
+                                                                             
+      Result: │ Success                   Erosion │ 0:00:00.132              
+  Resolution: │ 1024                     Mountain │ 0:00:00.941              
+  Node Count: │ 4                             Sea │ 0:00:00.239              
+  Start Time: │ 3/1/2025 7:15:12 PM               │                          
+    End Time: │ 3/1/2025 7:15:15 PM       Fastest │ Transform @ 0:00:00.094  
+    Duration: │ 00:00:03.0900822          Slowest │ Mountain @ 0:00:00.941   
+                                                                             
+                                       * nodes that took <100ms are excluded.
+
+
+████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+■ Mountain 941%                  ■ Sea 239%              ■ Erosion 132%                 ■ Transform 94%                 
