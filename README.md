@@ -15,8 +15,12 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 
 ## Assets and Rights
 
+### Audio
+
+- Birth of a Hero: Music by: bensound.com | Artist: Benjamin Tissot | License code: IJ0XKDKR8UFD7QWW
+
 ### Presentation
-- Presentation Template [Maritime Adventure Storybook Slides](https://www.slidescarnival.com/template/maritime-adventure-storybook/59717)
+- Presentation Base Template [Maritime Adventure Storybook Slides](https://www.slidescarnival.com/template/maritime-adventure-storybook/59717)
 
 ### Backstory
 - Chat history to help generate the backstory can be found [here](Docs/backstory-chat-ref.txt). Tools: ChatGPT
@@ -24,5 +28,6 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 ### Character
 - Chat history to help generate design of the character [here](Docs/char-draw-ref.txt) Tools: ChatGPT Plus with DALL-E
 
+### Audio
 
 
