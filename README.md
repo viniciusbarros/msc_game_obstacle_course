@@ -12,6 +12,10 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 
 ## Assets, Rights and References
 
+### 3D Models 
+
+- "Seagull" by Dayvable, licensed under CC BY 4.0, available at [Fab](https://www.fab.com/listings/abc1f128-3c92-4b6f-8a43-995aae174cdc). Used as base for the Magpie
+
 ### Audio
 
 #### Background Music
