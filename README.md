@@ -1,31 +1,37 @@
 # The curse of Skybound
 
 ## Backstory
-Pat the Mag, a lone pirate, pursued the legend of the Skybound Gold—a treasure cursed by greed, said to be impossible to hold onto. "Whoever lays claim to it shall never rise without losing what they gained."  But Pat wasn’t driven by wealth; he sought freedom for his people, enslaved by the Marines and its abusive militia. With only his battered ship and a Jolly Roger featuring a Magpie, Pat vowed to gather enough treasure to buy his hometown’s sovereignty and break free from the Marines' grip.
+Pat the Mag is a lone pirate who pursued the legend of the Skybound Gold. A treasure cursed by greed, said to be impossible to hold onto. "Whoever lays claim to it shall never rise without losing what they gained".
+
+But Pat wasn’t driven by wealth. He wanted freedom for his people, who were enslaved by the Marines and their abusive militia. With only his battered ship and a Jolly Roger featuring a Magpie, Pat vowed to gather enough treasure to buy his hometown’s sovereignty and break free from the Marines' grip.
+
+Against all odds, Pat found the Skybound Gold on an unmarked island. But as soon as he touched the treasure, the curse activated, scattering his gold every time he jumped. Worse, the Marines, have tracked him down!
+
+With the curse dragging him down and enemies closing in, Pat must escape the island and secure enough gold to fulfil his dream of buying his people freedom.
 
 
-Betrayal had already cost Pat dearly. A pirate he once trusted, stole five years’ worth of treasure, leaving Pat to drown in the wreckage of his ambitions. But Pat refused to give up. "If fate dares to lock away my fortunate, I'll rise like a rogue magpie—grabbing every shiny trinket to build my and my own people freedom."
-
-
-Against all odds, Pat found the Skybound Gold on an unmarked island. But as soon as he touched the treasure, the curse activated, scattering his hard-earned gold every time he jumped. Worse, the Marines, led by his old betrayer—now a corrupt officer—have tracked him down.
-
-
-With the curse dragging him down and enemies closing in, Pat must escape the island and secure enough gold to fulfil his dream of freeing his people.
-
-
-## Assets and Rights
+## Assets, Rights and References
 
 ### Audio
 
 #### Background Music
 - Birth of a Hero: Music by: bensound.com | Artist: Benjamin Tissot | License code: IJ0XKDKR8UFD7QWW
 
+#### Cinematic voice over
+- Voice (Generated in elevenlabs.io ~890 credits) 
+Config: Voice: Charlotte; Model v2; speed: 1.10; stability 50%; similarity: 75%; Style Exageration: 27%
+Input: ```Pat the Mag. A lone pirate who pursued the legend of the Skybound Gold. A treasure cursed by greed, said to be impossible to hold onto. "Whoever lays claim to it shall never rise without losing what they gained."  But Pat wasn’t driven by wealth. He wanted freedom for his people, who were enslaved by the Marines and their abusive militia. With only his battered ship and a Jolly Roger featuring a Magpie, Pat vowed to gather enough treasure to buy his hometown’s sovereignty and break free from the Marines' grip.
+
+Against all odds, Pat found the Skybound Gold on an unmarked island. But as soon as he touched the treasure, the curse activated, scattering his gold every time he jumped. Worse, the Marines, have tracked him down.
+
+With the curse dragging him down and enemies closing in, Pat must escape the island and secure enough gold to fulfil his dream of buying his people freedom.```
+
 #### Sound Effects
-- Cannon shots (1 and 2) (Generated in elevenlabs.io) input: "cannon shot" 
-- Picking up coins (1 and 2) (Generated in elevenlabs.io) input: "sounds effect of picking up a bunch of coins" 
-- Opening Chest (Generated in elevenlabs.io) input: "sound effect of opening a chest with treasures inside"
-- Jumping effect (Generated in elevenlabs.io) input: "jump sound effect for pirate game"
-- Sea noise (Generated in elevenlabs.io) input: "cannon shot" 
+- Cannon shots (1 and 2) (Generated in elevenlabs.io) input: `cannon shot`
+- Picking up coins (1 and 2) (Generated in elevenlabs.io) input: `sounds effect of picking up a bunch of coins`
+- Opening Chest (Generated in elevenlabs.io) input: `sound effect of opening a chest with treasures inside`
+- Jumping effect (Generated in elevenlabs.io) input: `jump sound effect for pirate game`
+- Sea noise (Generated in elevenlabs.io) input: `cannon shot`
 - Water sea shore.mp3 by Slapbass -- https://freesound.org/s/124662/ -- License: Attribution 3.0
 
 
