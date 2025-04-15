@@ -20,11 +20,14 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 #### Cinematic voice over
 - Voice (Generated in elevenlabs.io ~890 credits) 
 Config: Voice: Charlotte; Model v2; speed: 1.10; stability 50%; similarity: 75%; Style Exageration: 27%
-Input: ```Pat the Mag. A lone pirate who pursued the legend of the Skybound Gold. A treasure cursed by greed, said to be impossible to hold onto. "Whoever lays claim to it shall never rise without losing what they gained."  But Pat wasn’t driven by wealth. He wanted freedom for his people, who were enslaved by the Marines and their abusive militia. With only his battered ship and a Jolly Roger featuring a Magpie, Pat vowed to gather enough treasure to buy his hometown’s sovereignty and break free from the Marines' grip.
+Input: 
+```
+Pat the Mag. A lone pirate who pursued the legend of the Skybound Gold. A treasure cursed by greed, said to be impossible to hold onto. "Whoever lays claim to it shall never rise without losing what they gained."  But Pat wasn’t driven by wealth. He wanted freedom for his people, who were enslaved by the Marines and their abusive militia. With only his battered ship and a Jolly Roger featuring a Magpie, Pat vowed to gather enough treasure to buy his hometown’s sovereignty and break free from the Marines' grip.
 
 Against all odds, Pat found the Skybound Gold on an unmarked island. But as soon as he touched the treasure, the curse activated, scattering his gold every time he jumped. Worse, the Marines, have tracked him down.
 
-With the curse dragging him down and enemies closing in, Pat must escape the island and secure enough gold to fulfil his dream of buying his people freedom.```
+With the curse dragging him down and enemies closing in, Pat must escape the island and secure enough gold to fulfil his dream of buying his people freedom.
+```
 
 #### Sound Effects
 - Cannon shots (1 and 2) (Generated in elevenlabs.io) input: `cannon shot`
