@@ -15,6 +15,7 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 ### 3D Models 
 
 - "Seagull" by Dayvable, licensed under CC BY 4.0, available at [Fab](https://www.fab.com/listings/abc1f128-3c92-4b6f-8a43-995aae174cdc). Used as base for the Magpie
+- "Treasure Coins Chest" by Vansh Tandon, licensed under CC BY 4.0, available at [Fab](https://www.fab.com/listings/659550d8-ef5e-43f4-b195-755ff018b32d). Used as base for the Magpie
 
 ### Audio
 
