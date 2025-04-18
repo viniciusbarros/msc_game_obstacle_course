@@ -12,12 +12,14 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 
 ## Assets, Rights and References
 
-### 3D Models 
 
+### 3D Models/Assets
+
+- "Smuggler's Cove Asset Pack" by Poly Heaven,  licensed under CC BY 4.0, available at [Fab] (https://www.fab.com/listings/a0935013-5959-47c2-97d9-75478ded0e6b)
 - "Seagull" by Dayvable, licensed under CC BY 4.0, available at [Fab](https://www.fab.com/listings/abc1f128-3c92-4b6f-8a43-995aae174cdc). Used as base for the Magpie
 - "Treasure Coins Chest" by Vansh Tandon, licensed under CC BY 4.0, available at [Fab](https://www.fab.com/listings/659550d8-ef5e-43f4-b195-755ff018b32d). Used as base for the Magpie
 - "Marine One Piece" by AnmAn, licensed under CC BY 4.0, available at [Sketchfab] (https://sketchfab.com/3d-models/marine-one-piece-399a29524fba49868bc5c9094cde030b)
-
+- "WINCHESTER LEE NAVY M1895" by CamDiepMinh38, licensed under CC BY 4.0, available at [Fab] (https://www.fab.com/listings/6774e3dc-7eca-4614-9de1-12a749f50822)
 
 ### Audio
 
@@ -45,11 +47,18 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 - Water sea shore.mp3 by Slapbass -- https://freesound.org/s/124662/ -- License: Attribution 3.0
 
 
+### HUD
+- Icons created with ChatGPT o4-mini. Chat history [here](https://chatgpt.com/share/68029f0d-52d0-800c-91f7-f7376ed8bae8)
+
+### Materials
+- "MW Landscape Auto Material" by MAWI United under Fab Standard License  [Fab](https://www.fab.com/listings/6602874e-ef24-48c9-9055-a7ac07384696)
+
+
 ### Presentation
 - Presentation Base Template [Maritime Adventure Storybook Slides](https://www.slidescarnival.com/template/maritime-adventure-storybook/59717)
 
 ### Backstory
-- Chat history to help generate the backstory can be found [here](Docs/backstory-chat-ref.txt). Tools: ChatGPT
+- Chat history to help generate/refine backstory can be found [here](Docs/backstory-chat-ref.txt). Tools: ChatGPT
 
 ### Character
 - Chat history to help generate design of the character [here](Docs/char-draw-ref.txt) Tools: ChatGPT Plus with DALL-E
