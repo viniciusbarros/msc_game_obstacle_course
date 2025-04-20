@@ -15,11 +15,11 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 
 ### 3D Models/Assets
 
-- "Smuggler's Cove Asset Pack" by Poly Heaven,  licensed under CC BY 4.0, available at [Fab] (https://www.fab.com/listings/a0935013-5959-47c2-97d9-75478ded0e6b)
+- "Smuggler's Cove Asset Pack" by Poly Heaven,  licensed under CC BY 4.0, available at [Fab](https://www.fab.com/listings/a0935013-5959-47c2-97d9-75478ded0e6b)
 - "Seagull" by Dayvable, licensed under CC BY 4.0, available at [Fab](https://www.fab.com/listings/abc1f128-3c92-4b6f-8a43-995aae174cdc). Used as base for the Magpie
 - "Treasure Coins Chest" by Vansh Tandon, licensed under CC BY 4.0, available at [Fab](https://www.fab.com/listings/659550d8-ef5e-43f4-b195-755ff018b32d). Used as base for the Magpie
-- "Marine One Piece" by AnmAn, licensed under CC BY 4.0, available at [Sketchfab] (https://sketchfab.com/3d-models/marine-one-piece-399a29524fba49868bc5c9094cde030b)
-- "WINCHESTER LEE NAVY M1895" by CamDiepMinh38, licensed under CC BY 4.0, available at [Fab] (https://www.fab.com/listings/6774e3dc-7eca-4614-9de1-12a749f50822)
+- "Marine One Piece" by AnmAn, licensed under CC BY 4.0, available at [Sketchfab](https://sketchfab.com/3d-models/marine-one-piece-399a29524fba49868bc5c9094cde030b)
+- "WINCHESTER LEE NAVY M1895" by CamDiepMinh38, licensed under CC BY 4.0, available at [Fab](https://www.fab.com/listings/6774e3dc-7eca-4614-9de1-12a749f50822)
 
 ### Audio
 
