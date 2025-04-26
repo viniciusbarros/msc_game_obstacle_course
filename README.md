@@ -20,6 +20,7 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 - "Treasure Coins Chest" by Vansh Tandon, licensed under CC BY 4.0, available at [Fab](https://www.fab.com/listings/659550d8-ef5e-43f4-b195-755ff018b32d). Used as base for the Magpie
 - "Marine One Piece" by AnmAn, licensed under CC BY 4.0, available at [Sketchfab](https://sketchfab.com/3d-models/marine-one-piece-399a29524fba49868bc5c9094cde030b)
 - "WINCHESTER LEE NAVY M1895" by CamDiepMinh38, licensed under CC BY 4.0, available at [Fab](https://www.fab.com/listings/6774e3dc-7eca-4614-9de1-12a749f50822)
+- "Coin" by KJ3D, licensed under Fab Standard License, available at [Fab](https://www.fab.com/listings/75608ef1-b22a-4349-b71c-9ae4a98571ae)
 
 ### Audio
 
@@ -54,7 +55,7 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 - Icons created with ChatGPT o4-mini. Chat history [here](https://chatgpt.com/share/68029f0d-52d0-800c-91f7-f7376ed8bae8)
 
 ### Materials
-- "MW Landscape Auto Material" by MAWI United under Fab Standard License  [Fab](https://www.fab.com/listings/6602874e-ef24-48c9-9055-a7ac07384696)
+- "MW Landscape Auto Material" by MAWI United under Fab Standard License [Fab](https://www.fab.com/listings/6602874e-ef24-48c9-9055-a7ac07384696)
 
 
 ### Presentation
