@@ -22,6 +22,14 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 - "WINCHESTER LEE NAVY M1895" by CamDiepMinh38, licensed under CC BY 4.0, available at [Fab](https://www.fab.com/listings/6774e3dc-7eca-4614-9de1-12a749f50822)
 - "Coin" by KJ3D, licensed under Fab Standard License, available at [Fab](https://www.fab.com/listings/75608ef1-b22a-4349-b71c-9ae4a98571ae)
 
+### Images
+
+#### Magpie Jolly Roger
+- Flag created with ChatGPT o4-mini. Chat history [here](https://chatgpt.com/share/68111413-b51c-800c-8c5d-0c9fe22d96a7)
+
+#### HUD
+- Icons created with ChatGPT o4-mini. Chat history [here](https://chatgpt.com/share/68029f0d-52d0-800c-91f7-f7376ed8bae8)
+
 ### Audio
 
 #### Background Music
@@ -51,12 +59,8 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 
 
 
-### HUD
-- Icons created with ChatGPT o4-mini. Chat history [here](https://chatgpt.com/share/68029f0d-52d0-800c-91f7-f7376ed8bae8)
-
 ### Materials
 - "MW Landscape Auto Material" by MAWI United under Fab Standard License [Fab](https://www.fab.com/listings/6602874e-ef24-48c9-9055-a7ac07384696)
-
 
 ### Presentation
 - Presentation Base Template [Maritime Adventure Storybook Slides](https://www.slidescarnival.com/template/maritime-adventure-storybook/59717)
