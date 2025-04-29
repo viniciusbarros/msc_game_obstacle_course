@@ -24,11 +24,9 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 
 ### Images
 
-#### Magpie Jolly Roger
-- Flag created with ChatGPT o4-mini. Chat history [here](https://chatgpt.com/share/68111413-b51c-800c-8c5d-0c9fe22d96a7)
-
-#### HUD
-- Icons created with ChatGPT o4-mini. Chat history [here](https://chatgpt.com/share/68029f0d-52d0-800c-91f7-f7376ed8bae8)
+- Magpie Jolly Roger Flag created with ChatGPT o4-mini. Chat history [here](https://chatgpt.com/share/68111413-b51c-800c-8c5d-0c9fe22d96a7)
+- HUD Icons created with ChatGPT o4-mini. Chat history [here](https://chatgpt.com/share/68029f0d-52d0-800c-91f7-f7376ed8bae8)
+- Quicksand Texture from [freeartbackgrounds](https://freeartbackgrounds.com/?1203,desert-sand-texture)
 
 ### Audio
 
