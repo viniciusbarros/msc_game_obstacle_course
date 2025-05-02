@@ -54,6 +54,8 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 - Water sea shore.mp3 by Slapbass -- https://freesound.org/s/124662/ -- License: Attribution 3.0
 - SAND POUR.wav by nicoproson -- https://freesound.org/s/627070/ -- License: Creative Commons 0 
 - Footsteps_Boots_Gritty_Ground_(Gravel).wav by Nox_Sound -- https://freesound.org/s/530589/ -- License: Creative Commons 0
+- Earthquake (Generated in elevenlabs.io) input: `earthquake`
+- Earthquake wave (Generated in elevenlabs.io) input: `big sea wave`
 
 
 
