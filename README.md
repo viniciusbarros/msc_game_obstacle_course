@@ -58,6 +58,26 @@ With the curse dragging him down and enemies closing in, Pat must escape the isl
 - Earthquake wave (Generated in elevenlabs.io) input: `big sea wave`
 
 
+#### Pat Voice Lines
+Voice (Generated in elevenlabs.io ~890 credits) 
+Config: Voice: Sam; Model v2; speed: 1.10; stability 50%; similarity: 75%; Style Exageration: 38%
+The inputs are the same as the voice lines:
+
+##### Damage:
+- "Ouch!"
+- "Ow!"
+- "It hurts"
+- "Argh!"
+- "Uh!"
+- "Feck off!"
+- "Leave me alone!"
+
+##### Picking up treasure:
+- "Who would've guessed!? The SKY BOUND GOLD!"
+- "Let’s hope there’s enough gold to save the villagers."
+- "Oh man, this will save my friends!"
+- "I still can't believe this is the SkyBound Gold"
+
 
 ### Materials
 - "MW Landscape Auto Material" by MAWI United under Fab Standard License [Fab](https://www.fab.com/listings/6602874e-ef24-48c9-9055-a7ac07384696)
