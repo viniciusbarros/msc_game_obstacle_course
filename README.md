@@ -1,4 +1,4 @@
-# The curse of Skybound
+# Pat the Mag and the Skybound Gold
 
 ## Backstory
 Pat the Mag is a lone pirate who pursued the legend of the Skybound Gold. A treasure cursed by greed, said to be impossible to hold onto. "Whoever lays claim to it shall never rise without losing what they gained".
@@ -8,6 +8,24 @@ But Pat wasn’t driven by wealth. He wanted freedom for his people, who were en
 Against all odds, Pat found the Skybound Gold on an unmarked island. But as soon as he touched the treasure, the curse activated, scattering his gold every time he jumped. Worse, the Marines, have tracked him down!
 
 With the curse dragging him down and enemies closing in, Pat must escape the island and secure enough gold to fulfil his dream of buying his people freedom.
+
+
+## Gameplay screenshots
+
+<p align="center">
+  <a href="Docs/screenshots/screenshot1.png"><img src="Docs/screenshots/screenshot1.png" width="200"/></a>
+  <a href="Docs/screenshots/screenshot2.png"><img src="Docs/screenshots/screenshot2.png" width="200"/></a>
+  <a href="Docs/screenshots/screenshot11.png"><img src="Docs/screenshots/screenshot11.png" width="200"/></a>
+  <a href="Docs/screenshots/screenshot3.png"><img src="Docs/screenshots/screenshot3.png" width="200"/></a>
+  <a href="Docs/screenshots/screenshot4.png"><img src="Docs/screenshots/screenshot4.png" width="200"/></a>
+  <a href="Docs/screenshots/screenshot5.png"><img src="Docs/screenshots/screenshot5.png" width="200"/></a>
+  <a href="Docs/screenshots/screenshot6.png"><img src="Docs/screenshots/screenshot6.png" width="200"/></a>
+  <a href="Docs/screenshots/screenshot7.png"><img src="Docs/screenshots/screenshot7.png" width="200"/></a>
+  <a href="Docs/screenshots/screenshot8.png"><img src="Docs/screenshots/screenshot8.png" width="200"/></a>
+  <a href="Docs/screenshots/screenshot9.png"><img src="Docs/screenshots/screenshot9.png" width="200"/></a>
+  <a href="Docs/screenshots/screenshot10.png"><img src="Docs/screenshots/screenshot10.png" width="200"/></a>
+</p>
+
 
 
 ## Assets, Rights and References
