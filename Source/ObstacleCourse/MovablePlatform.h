@@ -21,11 +21,11 @@ protected:
 
 public:
 	//the speed at which the platform rotates
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	float RotationSpeed = 20;
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	FVector MovementSpeed = FVector(0, 0, 0);
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	float MaximumDistance = 100;
 
 private:
